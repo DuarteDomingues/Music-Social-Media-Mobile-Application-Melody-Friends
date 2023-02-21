@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">projeto_dam</string>
+    <string name="projectName">MELODY FRIENDS</string>
+    <string name="login" >Login</string>
+    <string name="username" >UserName</string>
+    <string name="email" >Email</string>
+    <string name="password" >password</string>
+    <string name="create" ><u>New ? Create Account</u></string>
+    <string name="signIn" >Sign Up With google</string>
+    <string name="register" >Register</string>
+    <string name="settings" >settings</string>
+    <string name="have_account" ><u>Already have an Account?</u></string>
+    <string name="message">buttonInfo</string>
+    <string name="UserUserName"> Username:</string>
+    <string name="age_gender">22, male</string>
+    <string name="location">Location:</string>
+    <string name="musiciantType">Musician Type:</string>
+    <string name="FavoriteGenres">Favorite Genres:</string>
+    <string name="FavoriteArtits">Favorite Artists:</string>
+    <string name="friends">Friends</string>
+    <string name="edit">Edit Profile</string>
+    <string name="editPhoto">Edit Profile Picture</string>
+    <string name="instruments">Instruments:</string>
+    <string name="editSkillLevel">Skill level:</string>
+    <string name="editBio">Edit Bio:</string>
+    <string name="usernameEdited">nameExample</string>
+    <string name="locationEdited">location</string>
+    <string name="submit">Submit</string>
+    <string name="student_photo">Student</string>
+    <string name="about_msg">Work done by:</string>
+    <string name="duarte_info"> Duarte Domigues 45140</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="retu">Return</string>
+    <string name="favArtExamples">the doors</string>
+    <string name="selectInstruments">Select the instruments you play</string>
+    <string name="SelectGenres">Select your favorite music genres</string>
+
+
+
+    <string name="guitar">Guitar</string>
+    <string name="piano">Piano</string>
+    <string name="violin">Violin</string>
+    <string name="harp">Harp</string>
+    <string name="drums">Drums</string>
+    <string name="bass">Bass</string>
+    <string name="singer">Singer</string>
+    <string name="accordion">Accordion</string>
+    <string name="flue">Flute</string>
+    <string name="saxophone">Sax</string>
+    <string name="Trumpet">Trumpet</string>
+    <string name="clarinet">Clarinet</string>
+
+
+
+    <string name="Country">Country</string>
+    <string name="EDM">EDM</string>
+    <string name="hiphop">Hip-hop</string>
+    <string name="indie">indie</string>
+    <string name="jazz">jazz</string>
+    <string name="pop">pop</string>
+    <string name="metal">metal</string>
+    <string name="rap">rap</string>
+    <string name="rock">rock</string>
+    <string name="blues">blues</string>
+    <string name="samba">Samba</string>
+    <string name="fado">fado</string>
+    <string name="raggae">raggae</string>
+    <string name="dubstep">dubstep</string>
+
+
+    <string name="next"> Next </string>
+    <string name="selectBirth">Birthdate:</string>
+    <string name="fill">Fill in your information:</string>
+    <string name="gender">Gender:</string>
+    <string name="artistsExample">Artists</string>
+
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+
+    </string-array>
+
+
+
+
+
+
+
+
+    <string-array name="instruments">
+        <item>Guitar</item>
+        <item>Piano</item>
+        <item>Drums</item>
+        <item>Bass</item>
+        <item>Flute</item>
+
+    </string-array>
+
+    <string-array name="skill">
+        <item>Novice</item>
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Advanced</item>
+        <item>Pro</item>
+
+    </string-array>
+
+    <string name="writePost"> Create a new post </string>
+    <string name="writeHere"> Write here... </string>
+    <string name="writePostEdit"> Write here... </string>
+    <string name="title">Title:</string>
+    <string name="titleex">title</string>
+
+    <string name="logout">Logout</string>
+    <string name="search">search</string>
+
+
+    <string name="premium">Get Premium</string>
+
+
+</resources>

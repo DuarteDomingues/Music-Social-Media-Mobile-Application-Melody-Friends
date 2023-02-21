@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "595053603326",
+    "firebase_url": "https://melody-friends-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "melody-friends",
+    "storage_bucket": "melody-friends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595053603326:android:c4bb1c6db7a0d9e37238af",
+        "android_client_info": {
+          "package_name": "com.example.projeto_dam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595053603326-jfuh1vce3b2fhqcnkkkhjlqm34ht0ceo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projeto_dam",
+            "certificate_hash": "8eed8cdb752b0e331ad9349bfd148f0794f2aebd"
+          }
+        },
+        {
+          "client_id": "595053603326-ppoi6c8cvgumv4p0igf21oam956k1osb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC-aPUw5DrT6kJSbeRMYLXzyiLjTb0TZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595053603326-12ggh5grccssoeflb30a9t02f4p8f89q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
